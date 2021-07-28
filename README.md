@@ -1,0 +1,1 @@
+Desarrollo de pequeños programas en Pyhton para la materia de "Instala y Configura Software" del Módulo "Configura e Instala Hardware y Software en el Equipo de Cómputo" pertenecientes a la carrera d "Técnico en Soporte y Mantenimiento de Equipo de Cómputo" del Centro de Bachillerato Tecnológico Industrial y de Servicios No. 122
