@@ -1,0 +1,5 @@
+print ("Había una vez un alumno del CBTis 122 que se llamaba Juan")
+print ("El tenía 16 años y vivía al norte de la ciudad de Chihuahua.")
+print ("A Juan le gustaba oir música, el rock era su género musical favorito.")
+print ("Juan trabajaba de cajero en un Oxxo por las tardes lo que le permitía ganar dinero")
+print ("Juan era feliz")
